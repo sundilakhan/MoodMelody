@@ -1,5 +1,6 @@
 # Ignore Python virtual environments
 venv/
+venv_backup/
 fyp-backend/venv/
 .env/
 __pycache__/
