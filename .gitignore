@@ -1,25 +1,6 @@
-# Python
+# Ignore Python virtual environments
+venv/
+fyp-backend/venv/
+.env/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-*.env
-*.log
-
-# VS Code
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Node / Frontend
-node_modules/
-dist/
-build/
